@@ -1,0 +1,92 @@
+[
+    {
+        "id": 1,
+        "name": "Rahul Gothi",
+        "email": "rahul@gmail.com",
+        "role": "Full Stack Developer",
+        "city": "Indore",
+        "salary": 95000,
+        "experience": "7 Years"
+    },
+    {
+        "id": 2,
+        "name": "Amit Sharma",
+        "email": "amit@gmail.com",
+        "role": "Backend Developer",
+        "city": "Delhi",
+        "salary": 85000,
+        "experience": "5 Years"
+    },
+    {
+        "id": 3,
+        "name": "Priya Verma",
+        "email": "priya@gmail.com",
+        "role": "Frontend Developer",
+        "city": "Mumbai",
+        "salary": 78000,
+        "experience": "4 Years"
+    },
+    {
+        "id": 4,
+        "name": "Neha Singh",
+        "email": "neha@gmail.com",
+        "role": "UI/UX Designer",
+        "city": "Pune",
+        "salary": 65000,
+        "experience": "3 Years"
+    },
+    {
+        "id": 5,
+        "name": "Rohit Jain",
+        "email": "rohit@gmail.com",
+        "role": "DevOps Engineer",
+        "city": "Bangalore",
+        "salary": 120000,
+        "experience": "8 Years"
+    },
+    {
+        "id": 6,
+        "name": "Anjali Patel",
+        "email": "anjali@gmail.com",
+        "role": "QA Engineer",
+        "city": "Ahmedabad",
+        "salary": 60000,
+        "experience": "2 Years"
+    },
+    {
+        "id": 7,
+        "name": "Vikas Gupta",
+        "email": "vikas@gmail.com",
+        "role": "Project Manager",
+        "city": "Hyderabad",
+        "salary": 140000,
+        "experience": "10 Years"
+    },
+    {
+        "id": 8,
+        "name": "Sneha Kapoor",
+        "email": "sneha@gmail.com",
+        "role": "HR Manager",
+        "city": "Chennai",
+        "salary": 70000,
+        "experience": "6 Years"
+    },
+    {
+        "id": 9,
+        "name": "Karan Mehta",
+        "email": "karan@gmail.com",
+        "role": "Mobile App Developer",
+        "city": "Noida",
+        "salary": 90000,
+        "experience": "5 Years"
+    },
+    {
+        "id": 10,
+        "name": "Pooja Sharma",
+        "email": "pooja@gmail.com",
+        "role": "Data Analyst",
+        "city": "Jaipur",
+        "salary": 75000,
+        "experience": "4 Years"
+    }
+]
