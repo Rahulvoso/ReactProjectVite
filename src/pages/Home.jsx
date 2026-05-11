@@ -59,7 +59,7 @@ export default function Home() {
             {/* Counter Task */}
             <div className="card shadow p-4 mb-5 text-center">
 
-                <h1 className="mb-3">Counter App 🚀</h1>
+                <h1 className="mb-3">Counter App 🚀🚀</h1>
 
                 <h2 className="display-4 mb-4">
                     {count}
